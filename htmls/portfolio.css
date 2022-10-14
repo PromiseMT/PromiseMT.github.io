@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+}
+
+.nav_container{
+    border: ;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.logo{
+    border: ;
+    font-family: 'Mulish', sans-serif;
+}
+.zuluphoto{
+    height: 69px;
+    width: 5vw;
+    margin-left: 5px
+}
+
+.KC{
+    border: ;
+    background-color: black;
+    color: WHITE;
+    font-size: 30px;
+    margin-left: 5px;
+    font-family:;
+}
+
+.Menu{
+    border: 2px solid black;
+    margin-right: 5px;
+    
+}
+
+.subscribe_button{
+    height: 50px;
+    width: auto;
+    padding: 7px;
+    background-color: black;
+    color: white;
+    margin-right: 5px;
+
+
+
+
+}
+.nav_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
