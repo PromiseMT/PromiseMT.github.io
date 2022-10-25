@@ -29,7 +29,7 @@ body{
 }
 .zuluphoto{
     height: 69px;
-    width: 5vw;
+    width: 7vw;
     margin-left: 0px
 }
 
@@ -38,7 +38,7 @@ body{
     background-color: black;
     color: WHITE;
     font-size: 30px;
-    margin-left: 5px;
+    margin-left: 1px;
     font-family:;
 }
 
@@ -66,3 +66,76 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+
+.home_nav{
+    border:;
+    margin-top: 20px;
+}
+
+.menu_page{
+    border: ;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 4vh;
+}
+
+.index{
+    border:;
+    text-align: center;
+    height: 30px;
+    margin-top: 10px;
+    font-size: 4vh;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.4px);
+    -webkit-backdrop-filter: blur(5.4px);
+}
+
+.index_2{
+    border: 0.5px ;
+    text-align: center;
+    height: 30px;
+    width: 100%;
+    font-size: 4vh;
+    background: local;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.4px);
+    -webkit-backdrop-filter: blur(5.4px);
+}
+
+.page_1{
+    border: 0.3px solid green;
+    
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    background: local;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.4px);
+    -webkit-backdrop-filter: blur(5.4px);
+    color: #000000;
+}
+
+.title_area{
+    border: 2px solid red;
+    height: 10%;
+    text-align: center;
+    font-size: 3vh;
+
+}
+
+.photo_title{
+    border: 2px solid green;
+    height: 76%;
+
+}
+
+.date{
+    border: 2px solid blue;
+    height: 10%;
+    text-align: center;
+
+}
+
