@@ -2,6 +2,11 @@
     margin: 0px;
 }
 
+body{
+    background-image: url('photos/bg.jpg');
+    background-size: cover
+}
+
 .nav_container{
     border: ;
     height: 70px;
@@ -25,7 +30,7 @@
 .zuluphoto{
     height: 69px;
     width: 5vw;
-    margin-left: 5px
+    margin-left: 0px
 }
 
 .KC{
