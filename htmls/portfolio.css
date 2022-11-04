@@ -81,7 +81,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    font-size: 4vh;
+    font-size: 3vh;
 }
 
 .menu_bar{
@@ -125,12 +125,12 @@ body{
 
 .index_2{
     border: 0.5px ;
-    font-size: 1vh;
+    
     text-align: center;
-    font-weight: bolder;
+    font-weight: bolder ;
     height: 30px;
     width: 100%;
-    font-size: 4vh;
+    font-size: 3vh;
     background: local;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(5.4px);
@@ -156,7 +156,7 @@ body{
     border: ;
     height: 10%;
     text-align: center;
-    font-size: 4vh;
+    font-size: 3vw;
     font-weight: bold;
 
 }
