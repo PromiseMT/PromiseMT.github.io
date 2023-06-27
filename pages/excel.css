@@ -1,5 +1,43 @@
-.sc1 {
-    height: 500px;
-    width: 500px;
 
+
+.container_main{
+    border: ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 16px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.cont_1{
+
+    background-color: #F5DEB3;
+}
+
+.cont_2{
+
+    background-color: #52b2bf;
+}
+
+.cont_3{
+
+    background-color: #99c68e;
+}
+
+.cont_4{
+
+    background-color: #1e3932;
+}
+
+.cont_5{
+
+    background-color: #dff9ba;
+}
+
+.cont_6{
+    background-color: #d4e;
 }
