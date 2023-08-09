@@ -453,6 +453,8 @@ a{
     margin:;
     padding: 5px 20px 5px 20px;
     background-color: #ffffff;
+    font-size: 2.2vw;
+    font-size: 2.2vh;
 }
 .hr_3{
     color: black;
@@ -475,11 +477,15 @@ a{
 .atnum{
     margin-left: 20px;
     background-color: #ffffff;
+    font-size: 2vw;
+    font-size: 2vh;
 }
 
 .arti{
     background-color: #ffffff;
     color: #9e7144;
+    font-size: 2vw;
+    font-size: 2vh;
 }
 
 
