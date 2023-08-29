@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    background-color: #d2d2d2;
+    font-family: 'Mulish', sans-serif;
+    outline: ;
+
+}
+
+
+.main_container{
+    border:;
+    background-color: #d2d2d2;
+    
+
+}
+
+.title{
+    border: ;
+    height: 70px;
+    width: 100%;
+    margin-top: ;
+    background-color: #313138;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 2.5vw;
+    font-weight: bold;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+.h3title{
+    border: ;
+    padding-top: 8px;
+    background-color: #313138;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.h4home{
+    border:;
+    background-color: #313138;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+    padding: 3px;
+    font-size: 2.5vw;
+    margin-bottom: 5px;
+}
+
+.hom{
+    background-color: #313138;
+    text-decoration: underline;
+    margin-left: 5px;
+}
+.index{
+    background-color: #313138;
+    text-decoration: underline;
+    margin-right: 5px;
+}
+
+.introd{
+    margin-top: 32px;
+    border: ;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+.intimage{
+    border: ;
+    width: 40%;
+}
+.intima{
+    height: 98%;
+    width: 98%;
+}
+.int_content{
+    border: ;
+    width:59%;
+    margin-left: 5px;
+}
+
+
+@media screen and (min-width: 850px){
+    .intimage{
+        border:  ;
+        width: 30%;
+    }
+    .intima{
+        height: 98%;
+        width: 250px;
+    }
+    .int_content{
+        border: ;
+        width:69%;
+    }
+
+
+    
+}
