@@ -14,12 +14,14 @@
 }
 
 .cont_1{
+    color: white;
+    font-size: 2vw ;
 
-    background-color: #F5DEB3;
+    background-color:  #1d1c2e;
 }
 
 .excelpic {
-    border: 2px solid red;
+    border: ;
     width: 100%;
     
 }
