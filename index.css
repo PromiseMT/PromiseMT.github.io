@@ -483,7 +483,7 @@ a{
 
 .arti{
     background-color: #ffffff;
-    color: #9e7144;
+    color: #9e7144 !important;
     font-size: 2vw;
     font-size: 2vh;
 }
